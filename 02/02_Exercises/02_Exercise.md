@@ -1,4 +1,4 @@
-### Erstellen von verschachtelten Objekten
+jh, mnhgvr### Erstellen von verschachtelten Objekten
 
 Das erste Proof of Concept (POC) haben Sie erfolgreich gelöst. Nun sollen die IMDb-Ratings und die Anzahl der Stimmen zum Rating hinzugefügt werden. Zusätzlich soll der Tomatometer (s. unten mehr) integriert werden, welche die Benutzer- und Kritiker-Bewertungen umfassen. 
 
